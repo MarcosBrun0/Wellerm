@@ -1,0 +1,3 @@
+/Users/MBhome/Documents/Codes/C/Wellerm/cmake-build-debug/CMakeFiles/Wellerm.dir
+/Users/MBhome/Documents/Codes/C/Wellerm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/MBhome/Documents/Codes/C/Wellerm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
